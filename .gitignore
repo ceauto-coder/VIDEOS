@@ -1,0 +1,11 @@
+# Secretos (la API key de ElevenLabs nunca se commitea)
+.env
+.claude/skills/video-use/.env
+
+# Salidas de video-use: se generan en <carpeta_de_videos>/edit/
+**/edit/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

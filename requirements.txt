@@ -1,0 +1,8 @@
+# Dependencias de los helpers de video-use (.claude/skills/video-use/helpers)
+requests
+librosa
+matplotlib
+pillow
+numpy
+# Opcional: descargar fuentes desde URLs
+yt-dlp
