@@ -1,0 +1,19 @@
+{
+  "colores": {
+    "bg": "#050D20",
+    "card": "#0B2449",
+    "lime": "#22B8F0",
+    "violet": "#2563EB",
+    "text": "#F4F2F8"
+  },
+  "logo": "marca/logo.jpg",
+  "logo_tipo": "avatar circular con foto",
+  "usuario": null,
+  "formato": "ambos (largo 16:9 + reels 9:16)",
+  "reels": 4,
+  "estilo": "por defecto de la skill",
+  "cortes": "los hace la skill (gap 0.28)",
+  "musica": "elige la skill (lo-fi instrumental ~95 BPM)",
+  "cta": "Ingresa ahora mismo (destino pendiente)",
+  "video": "Drive 1DGaDLdf6EWv9HXL-BqBK3m9fW-Rth6Yw - Copia de REELVOLUTION 2.mp4"
+}
