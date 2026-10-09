@@ -9,3 +9,8 @@
 __pycache__/
 *.py[cod]
 .venv/
+
+# editor-video-ia: dependencias (las crea scripts/setup.sh) y proyectos de edición
+node_modules/
+**/edicion-*/
+**/remotion/out/
